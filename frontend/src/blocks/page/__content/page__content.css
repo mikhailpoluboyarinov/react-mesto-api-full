@@ -1,0 +1,8 @@
+.page__content {
+    width: auto;
+    margin: 0 auto;
+    background-color: #000;
+    font-family: Inter, Arial, sans-serif;
+    color: #fff;
+    min-height: 100vh;
+}

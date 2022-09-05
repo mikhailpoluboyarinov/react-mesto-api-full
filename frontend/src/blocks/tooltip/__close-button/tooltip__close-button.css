@@ -1,0 +1,19 @@
+.tooltip__close-button {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: -41px;
+    right: -41px;
+    border: none;
+    padding: 0;
+    background-image: url(../../../images/button-close.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.tooltip__close-button:hover {
+    opacity: 60%;
+    transition: opacity .5s linear;
+    cursor: pointer;
+}

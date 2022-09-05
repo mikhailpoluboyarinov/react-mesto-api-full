@@ -4,3 +4,7 @@
 PublicIP: 158.160.5.164
 #
 Domain name: mestompoluboyarinov.nomoredomains.sbs
+
+[Безопасное подключение](https://mestompoluboyarinov.nomoredomains.sbs)
+
+[Опасное подключение](http://mestompoluboyarinov.nomoredomains.sbs)
